@@ -1,1 +1,2 @@
-# Proyecto_parcial3
+En las descripciones hay muchas cosas explicadas pero me gustaria colocar aqui tambien parte de eso.
+Los commits y los issues estan hechos desde el 30/11/22 ya que no nos habiamos dado cuenta que solo estabamos guardando los trabajos en USB y se nos olvidaba hacerlo en los commits tambien, pero si estuvimos trabajando, este tema lo hablamos con usted en persona, nos comentó que no habia problema, solamente que explicaramos en el github a que se debia para que no lo olvidara. Pero los trabajos fueron iniciados desde el 14/11/22 aproximadamente, el primero en terminarse fue en 17/11/22 (el que ya esta subido), lo sabemos ya que en los archivos de la USB dicen las fechas de los trabajos.
